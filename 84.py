@@ -35,4 +35,4 @@ while confirmar != "N":
 
 print(f"Foram cadastradas {cadastrados} pessoas.")
 print(f"O maior peso foi de {float(pesados[0][1])}kg. Peso de {pesados[0][0]}.")
-print(f"O maior peso foi de {float(leves[0][1])}kg. Peso de {leves[0][0]}.")
+print(f"O menor peso foi de {float(leves[0][1])}kg. Peso de {leves[0][0]}.")
